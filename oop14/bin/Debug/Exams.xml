@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfFinalExam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FinalExam>
+    <Subject>Math</Subject>
+    <countOfQuest>44</countOfQuest>
+  </FinalExam>
+  <FinalExam>
+    <Subject>Biology</Subject>
+    <countOfQuest>73</countOfQuest>
+  </FinalExam>
+  <FinalExam>
+    <Subject>Chemistry</Subject>
+    <countOfQuest>82</countOfQuest>
+  </FinalExam>
+  <FinalExam>
+    <Subject>PE</Subject>
+    <countOfQuest>40</countOfQuest>
+  </FinalExam>
+</ArrayOfFinalExam>
